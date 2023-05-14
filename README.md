@@ -10,8 +10,7 @@ This is n application developed using nodejs and react as frontend also using ex
 2. Unzip it at any location and open terminal at that location 
 3. Now enter the following commands :
 
-<code>
-  1. cd app
+<code>  1. cd app
   2. cd backend 
   3. npm install 
   4. npm start
@@ -20,8 +19,7 @@ This is n application developed using nodejs and react as frontend also using ex
 
 4. open another terminal at same location and enter the commands :
 
-<code>
-  1. cd app
+<code>  1. cd app
   2. cd frontend
   3. npm install 
   4. npm start 
