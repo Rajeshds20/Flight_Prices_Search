@@ -14,7 +14,6 @@ This is n application developed using nodejs and react as frontend also using ex
   2. cd backend 
   3. npm install 
   4. npm start
-  
 </code>
 
 4. open another terminal at same location and enter the commands :
@@ -23,7 +22,6 @@ This is n application developed using nodejs and react as frontend also using ex
   2. cd frontend
   3. npm install 
   4. npm start 
-  
 </code>
 
 Now you will have your application running at port http://localhost:3000 
