@@ -1,6 +1,8 @@
 # Flight_Prices_Search
 
-This is n application developed using nodejs and react as frontend also using express router. Using Backend for api requests, the frontend code interacts with the user to give user the available flights between 3 cities.
+This is a Flights Prices Search application. This is used to search Flights between 2 locations and compare prices between different services, and made with React.
+
+This is an application developed using nodejs and react as frontend also using express router. Using Backend for api requests, the frontend code interacts with the user to give user the available flights between 3 cities.
 
 
 ## Using the application:
